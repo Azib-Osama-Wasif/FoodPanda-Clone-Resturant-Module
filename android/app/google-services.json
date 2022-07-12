@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663963217085",
+    "project_id": "medkit-ii",
+    "storage_bucket": "medkit-ii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663963217085:android:489f206ddc4e16c41edbd4",
+        "android_client_info": {
+          "package_name": "com.zakoota.medkit_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663963217085-urd9vrrnol2goh3spfrldrec1hkgtjvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zakoota.medkit_project",
+            "certificate_hash": "a0c6067f836b70b0179269eeaf481e4f63fdf887"
+          }
+        },
+        {
+          "client_id": "663963217085-eiecmr1ck1bcbp2t0jak1sl51muhhur7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCyvkPBbyPddvzO4v5shI0_x-XINYoDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663963217085-eiecmr1ck1bcbp2t0jak1sl51muhhur7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
